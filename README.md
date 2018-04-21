@@ -8,3 +8,10 @@ Regret Minimization is implemented using windowing technique proposed in the att
 
 Below is the comparison for Non-Regret and with Regret implementation.
 
+
+
+![alt text](https://github.com/shahharsh176/Regret-Minimization-in-GAN/blob/master/Without_Regret.png) ![alt text](https://github.com/shahharsh176/Regret-Minimization-in-GAN/blob/master/With_Regret.png) 
+
+So, with Regret Implementation in GAN the convergence rate is increased compared to Non-Regret Implementation.
+
+
